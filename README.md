@@ -31,8 +31,7 @@ Add below function in child div (Popup)
       event.stopPropagation()
     } else {
       this.tAuto = false;
-    }
-  }
+    }}
   
     
   
